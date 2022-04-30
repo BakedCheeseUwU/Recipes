@@ -1,0 +1,17 @@
+h1,
+h3 {
+    text-align: center;
+}
+
+.headings {
+    font-size: 30px;
+}
+
+.description{
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
